@@ -1,5 +1,5 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: SRIRAM S S F</h3>
+<h3>Name: SRIRAM S S </h3>
 <h3>Register Number: 212222230150</h3>
 
 
